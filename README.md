@@ -5,7 +5,7 @@
 <img src=assets\images\lobby.jpg>
 https://youtu.be/0kF5zJIbn5U
 
-A Little Bit Alexis Spotify(https://open.spotify.com/embed/album/1PdZt4tcOrXe8TYx8XotDx)
+A Little Bit Alexis Spotify https://open.spotify.com/embed/album/1PdZt4tcOrXe8TYx8XotDx
 
 
 ##### javascript extravaganza, API, hangman word guess with alerts, timers, global event handling,this is a living repository.  I will add features as I practice and learn.

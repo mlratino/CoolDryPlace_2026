@@ -3,7 +3,8 @@
 ## SUPERFANS only! Tittlating Spoilers!!!! Test your fancy, obscure word knowledge as you are rewarded or punished with gifs and short scenes and references "everything Schitt$ Creek."
 
 <img src=assets\images\lobby.jpg>
-https://youtu.be/0kF5zJIbn5U
+
+Alexis Rose's boundary pushing, chart topping crashout https://youtu.be/0kF5zJIbn5U
 
 A Little Bit Alexis Spotify https://open.spotify.com/embed/album/1PdZt4tcOrXe8TYx8XotDx
 

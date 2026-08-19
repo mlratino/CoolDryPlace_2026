@@ -5,7 +5,7 @@
 <img src=assets\images\lobby.jpg>
 https://youtu.be/0kF5zJIbn5U
 
-#[A Little Bit Alexsis Spotify](https://open.spotify.com/embed/album/1PdZt4tcOrXe8TYx8XotDx)
+[A Little Bit Alexis Spotify](https://open.spotify.com/embed/album/1PdZt4tcOrXe8TYx8XotDx)
 
 <iframe src="https://open.spotify.com/embed/album/1PdZt4tcOrXe8TYx8XotDx" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
